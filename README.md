@@ -113,6 +113,18 @@ Interest rates	Percentage (%)	Debt Interest Expenses, Investments
 Consumer price index	Index	Cost of Goods Sold, Pricing Strategies
 
 
+Data anonymization:
+
+Name and surname
+Email addresses
+Mobile number (cellphone)
+License details (issuer)
+Social security number
+IP addresses
+Profile photo
+Account number/username
+
+
 
 
 
