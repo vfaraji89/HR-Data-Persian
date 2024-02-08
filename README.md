@@ -78,7 +78,6 @@ job_company_linkedin_url	keyword
 - Skill Level: string
 - Certification: string
 
-
 **Training Information:
 
 - Employee ID: string
